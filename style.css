@@ -1,8 +1,51 @@
 /*good riddance!*/ 
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    max-width: 960px;
+    margin: auto;
+}
+
+header {
+    text-align: center;
+    margin: auto 2em;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 40% 60%;
+    margin-top: 2.5;
+}
+
+section {
+    margin: auto 1em 4em 2em;
+}
+
+i {
+    margin-right: auto;
+}
+
+p {
+    margin: auto;
+}
+
 h1 {
-    color: slateblue
+    font-size: 3em;
+    letter-spacing: 10px;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    color: rgb(107, 90, 216);
 }
 
 h2 {
-    color: rebeccapurple
+    font-size: 1.75em;
+    padding-bottom: 1em;
+    color: rgb(62, 77, 148)
 }
+
+h3 {
+    font-size: 1.25em;
+    padding-bottom: 1em;
+    color: rgb(57, 69, 94);
+}
+
