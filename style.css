@@ -26,8 +26,13 @@ i {
 }
 
 p {
-    margin: auto;
+    margin: .2em auto;
 }
+
+hr {
+    height: 1px;
+}
+
 
 h1 {
     font-size: 3em;
@@ -47,5 +52,9 @@ h3 {
     font-size: 1.25em;
     padding-bottom: 1em;
     color: rgb(57, 69, 94);
+}
+
+#mainLeft {
+    border-right: 1px solid lightslategray; 
 }
 
