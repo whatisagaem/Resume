@@ -45,7 +45,7 @@ h1 {
 h2 {
     font-size: 1.75em;
     padding-bottom: 1em;
-    color: rgb(62, 77, 148)
+    color: rgb(62, 77, 148);
 }
 
 h3 {
@@ -55,6 +55,15 @@ h3 {
 }
 
 #mainLeft {
-    border-right: 1px solid lightslategray; 
+    border-right: 1px solid lightslategray ;
+    margin-top: 1rem; 
+    margin-right: 7rem;
+    align-content: center;
+    overflow: auto;
+}
+
+#mainRight {
+    margin-top: 1rem;
+    position: sticky;
 }
 
