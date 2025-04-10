@@ -10,6 +10,7 @@ header {
     text-align: center;
     margin: auto 2em;
     background-color: rgb(240, 241, 255);
+    /*maybe do a background image instead if possible*/
 }
 
 main {
@@ -67,4 +68,3 @@ h3 {
     position: static;
 }
 
-/**/
