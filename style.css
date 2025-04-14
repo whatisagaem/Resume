@@ -45,21 +45,22 @@ h1 {
 
 h2 {
     font-size: 1.75em;
-    padding-bottom: 1em;
+    padding-bottom: 0.4em;
     color: rgb(62, 77, 148);
 }
 
 h3 {
     font-size: 1.25em;
-    padding-bottom: 1em;
+    padding-top: 1em;
+    padding-bottom: 0.5em;
     color: rgb(57, 69, 94);
 }
+
 
 #mainLeft {
     border-right: 1px solid rgb(92, 92, 110);
     margin-top: 1rem; 
     margin-right: 6rem;
-    align-content: center;
     overflow: hidden;
 }
 

@@ -1,2 +1,2 @@
 # Resume
-I am a resume oooOOOOoooO you wanna click off so badly.....
+i don wanna be here ;_;
