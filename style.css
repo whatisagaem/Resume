@@ -11,7 +11,7 @@ header {
     margin: auto 2em;
     background-color: rgb(240, 241, 255);
     /*maybe do a background image instead if possible*/
-}
+} 
 
 main {
     display: grid;
@@ -55,7 +55,6 @@ h3 {
     padding-bottom: 0.5em;
     color: rgb(57, 69, 94);
 }
-
 
 #mainLeft {
     border-right: 1px solid rgb(92, 92, 110);
