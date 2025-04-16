@@ -1,6 +1,7 @@
 /*I'm going to personally murder you!*/ 
 body {
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 12px;
     max-width: 960px;
     margin: auto;
@@ -31,15 +32,11 @@ p {
     margin: 0.2em auto;
 }
 
-hr {
-    height: 1px;
-}
-
 h1 {
     font-size: 3em;
     letter-spacing: 10px;
     padding-top: 1em;
-    padding-bottom: 0.5em;
+    padding-bottom: 1.5em;
     color: rgb(107, 90, 216);
 }
 
@@ -66,6 +63,11 @@ h3 {
 #mainRight {
     margin-top: 1rem;
     position: static;
+}
+
+img {
+    margin: 1em 2em;
+    padding: 1.5em;
 }
 
 /*sekai de ichiban ohime sama*/
