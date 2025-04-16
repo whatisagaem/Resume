@@ -1,2 +1,2 @@
 # Resume
-i don wanna be here ;_;
+THIS IS A COOL RESUME :D
