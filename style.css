@@ -11,7 +11,7 @@ header {
     text-align: center;
     margin: auto 2em;
     background-color: rgb(240, 241, 255);
-    /*maybe do a background image instead if possible*/
+    border-radius: 15px;
 } 
 
 main {
@@ -22,10 +22,6 @@ main {
 
 section {
     margin: auto 1em 3em 2em;
-}
-
-i {
-    margin-right: auto;
 }
 
 p {
@@ -54,9 +50,11 @@ h3 {
 }
 
 #mainLeft {
-    border-right: 1px solid rgb(92, 92, 110);
     margin-top: 1rem; 
     margin-right: 6rem;
+    margin-bottom: 20rem;
+    background-color: rgb(210, 217, 255);
+    border-radius: 25px; 
     overflow: hidden;
 }
 
