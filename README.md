@@ -1,2 +1,2 @@
 # Resume
-THIS IS A COOL RESUME :D
+This is a resume.
