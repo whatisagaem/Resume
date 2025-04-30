@@ -8,7 +8,7 @@ body {
 
 header {
     text-align: center;
-    margin: auto 2em;
+    margin: auto 2rem;
     background-color: rgb(240, 241, 255);
     border-radius: 15px;
 } 
@@ -49,9 +49,7 @@ h3 {
 }
 
 #mainLeft {
-    margin-top: 1rem; 
-    margin-right: 6rem;
-    margin-bottom: 25rem;
+    maring: 1rem 6rem 15rem 2rem
     padding: 1rem;
     background-color: rgb(210, 217, 255);
     border-radius: 25px; 
@@ -63,9 +61,3 @@ h3 {
     position: static;
 }
 
-img {
-    margin: 5rem 2rem 2.5rem 3rem;
-    padding: 1.5rem;
-}
-
-/*sekai de ichiban ohime sama*/
